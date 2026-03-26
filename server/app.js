@@ -12,7 +12,7 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'https://smartspendlikeharsh.app',
-    'https://money-management-harshviggggs-projects.vercel.app',
+    'https://smartspendbyharsh.vercel.app',
   ],
   credentials: true,
 }));
